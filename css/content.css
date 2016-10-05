@@ -1,15 +1,11 @@
 .cool-around-box__content {
     width: 1000px;
     margin: 0 auto;
-    height: 500px;
-    border: 1px solid;
 }
 
 .content__info {
     width: 750px;
     float: right;
-    border: 1px solid;
-    height: 500px;
 }
 
 .empty-clear {
@@ -17,3 +13,87 @@
     width: 100%;
     clear: both;
 }
+
+.info-image {
+    width: 100%;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.info-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.info-title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 21pt;
+    padding-top: 60px;
+    line-height: 1.2em;
+    letter-spacing: 1px;
+    font-weight: 300;
+    color: #222;
+}
+
+.info-logo {
+    width: 150px;
+    height: 50px;
+}
+
+.info-logo img {
+    width: 160px;
+}
+
+.info-pre-title {
+    padding-top:10px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #232323;
+}
+
+.info-about {
+    line-height: 20px;
+    letter-spacing:0.5px;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}
+
+.info-steps {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.info-step {
+    margin-top: 30px;
+}
+
+.step-image {
+    display: inline-block;
+    width: 200px;
+    height:100%;
+    vertical-align: top;
+}
+
+.step-content {
+    display: inline-block;
+    width: 535px;
+    height: 100%;
+    vertical-align: top;
+}
+
+.step-title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 19px;
+    color: #69c7ee;
+}
+
+.step-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    color: #000;
+    padding-top: 10px;
+}
+
